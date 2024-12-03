@@ -24,4 +24,4 @@ Repositories
 
 ## Acknowledgement
 
-Organizers: [Peiran Wang](https://whilebug.github.io/), [Yaoning Yu](https://www.linkedin.com/in/yaoning-yu-6b0bb6231/), [Haohan Wang](https://haohanwang.github.io/index.html)
+Organizers: [Peiran Wang](https://whilebug.github.io/), [Yaoning Yu](http://www.linkedin.com/in/yaoning-yu), [Haohan Wang](https://haohanwang.github.io/index.html)
