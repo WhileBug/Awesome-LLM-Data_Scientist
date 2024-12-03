@@ -22,9 +22,9 @@
 | LAMBDA: A Large Model Based Data Agent                                                                                                  | [Link](https://arxiv.org/abs/2407.17535)     |         |
 | Data Science with LLMs and Interpretable Models                                                                                         | [Link](https://arxiv.org/pdf/2402.14474)     |         |
 | From Data to Story: Towards Automatic Animated Data Video Creation with LLM-based Multi-Agent Systems                                   | [Link](https://arxiv.org/pdf/2408.03876)     |         |
-| DSBENCH: HOW FAR ARE DATA SCIENCE AGENTS TO BECOMING DATA SCIENCE EXPERTS?                                                              | [Link](https://arxiv.org/pdf/2409.077032)    |         |
+| DSBENCH: HOW FAR ARE DATA SCIENCE AGENTS TO BECOMING DATA SCIENCE EXPERTS?                                                              | [Link](https://arxiv.org/pdf/2409.077032)    | ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)        |
 | FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models                                       | [Link](https://arxiv.org/pdf/2405.14767)     |         |
 | PatentAgent: Intelligent Agent for Automated Pharmaceutical Patent Analysis                                                             | [Link](https://arxiv.org/pdf/2410.21312)     |         |
 | Can Models Help Us Create Better Models? Evaluating LLMs as Data Scientists                                                             | [Link](https://arxiv.org/pdf/2410.23331)     |         |
-| Benchmarking Data Science Agents                                                                                                        | [Link](https://arxiv.org/pdf/2402.17168)     |         |
-| InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks                                                                             | [Link](https://https://arxiv.org/pdf/2401.05507)       |         |
+| Benchmarking Data Science Agents                                                                                                        | [Link](https://arxiv.org/pdf/2402.17168)     | ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)        |
+| InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks                                                                             | [Link](https://https://arxiv.org/pdf/2401.05507)       | ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)        |
