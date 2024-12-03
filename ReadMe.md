@@ -12,6 +12,7 @@ The papers related to the Large Language Model(LLM)-based data scientists agents
   - ![Benchmark](https://img.shields.io/badge/Benchmark-87b800)
   - ![RAG](https://img.shields.io/badge/RAG-589cf4)
   - ![Published](https://img.shields.io/badge/Published-a99cf4)
+  - ![Survey](https://img.shields.io/badge/Survey-994834)
 
 Papers:
   - [Code Agent](papers/code/ReadMe.md)
