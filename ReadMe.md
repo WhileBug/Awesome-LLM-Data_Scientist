@@ -17,3 +17,11 @@ The papers related to the Large Language Model(LLM)-based data scientists agents
 Papers:
   - [Code Agent](papers/code/ReadMe.md)
   - [Data Science Agent](papers/data_science/ReadMe.md)
+
+Repositories
+  - [Code Agent](repos/code/ReadMe.md)
+  - [Data Science Agent](repos/data_science/ReadMe.md)
+
+## Acknowledgement
+
+Organizers: [Peiran Wang](https://whilebug.github.io/), [Yaoning Yu](https://www.linkedin.com/in/yaoning-yu-6b0bb6231/), [Haohan Wang](https://haohanwang.github.io/index.html)
